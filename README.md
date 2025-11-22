@@ -1,3 +1,67 @@
+# 🚀 Complete Coding Resources & Roadmap
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/nishant-Tiwari24/coding-resources?style=social)](https://github.com/nishant-Tiwari24/coding-resources/stargazers)
+[![Forks](https://img.shields.io/github/forks/nishant-Tiwari24/coding-resources?style=social)](https://github.com/nishant-Tiwari24/coding-resources/network/members)
+[![Contributors](https://img.shields.io/github/contributors/nishant-Tiwari24/coding-resources)](https://github.com/nishant-Tiwari24/coding-resources/graphs/contributors)
+[![License](https://img.shields.io/github/license/nishant-Tiwari24/coding-resources)](LICENSE)
+
+**A comprehensive 3-year roadmap for mastering Programming, Data Structures & Algorithms, Full-Stack Development, and cracking tech interviews**
+
+[Getting Started](#getting-started) • [Roadmap](#roadmap) • [Resources](#all-resources) • [Contributing](#contributing)
+
+</div>
+
+---
+
+## 📋 Table of Contents
+
+- [About](#about)
+- [Getting Started](#getting-started)
+- [3-Year Roadmap](#roadmap)
+  - [Year 1: Programming & DSA Foundations](#year-1-programming--dsa-foundations)
+  - [Year 2: Comprehensive DSA Practice, Projects & CP](#year-2-comprehensive-dsa-practice-projects--cp)
+  - [Year 3: Internships and Placements](#year-3-internships-and-placements)
+- [All Resources](#all-resources)
+- [Extra Tips](#extra-tips)
+- [How to Use This Roadmap](#how-to-use-this-roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## 📖 About
+
+This repository contains a meticulously crafted 3-year roadmap designed to take you from programming basics to landing your dream tech job. Whether you're a beginner starting your coding journey or an intermediate developer preparing for interviews, this guide provides:
+
+✅ Month-by-month structured learning path
+✅ Curated resources for every topic
+✅ 500+ practice problems across difficulty levels
+✅ Real project ideas and hackathon preparation
+✅ Interview preparation strategies
+✅ System design and specialization guidance
+
+---
+
+## 🎯 Getting Started
+
+### Prerequisites
+- A computer with internet connection
+- Dedication to learn consistently
+- 2-3 hours daily for practice
+
+### How to Begin
+1. ⭐ Star this repository to show your support
+2. 📖 Read through the complete roadmap below
+3. 📝 Start from Year 1, Month 1-2
+4. ✅ Check off items as you complete them
+5. 🔄 Review and revise regularly
+
+---
+
+## 🗺️ Roadmap
+
 
 ### Year 1: Programming & DSA Foundations
 
@@ -80,5 +144,57 @@
 - Review all solved problems before interviews or placement season.
 
 ***
+
+This roadmap delivers deep foundational + strong DSA, with fully working resource links, structured problem sheets, and direct paths to real-world developer skills as of 2025.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions for improvements, additional resources, or spot any issues:
+
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature/improvement`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add new resource'`)
+5. Push to the branch (`git push origin feature/improvement`)
+6. Create a Pull Request
+
+Please ensure your PR:
+- Adds value to the roadmap
+- Includes working links
+- Follows the existing formatting style
+- Has a clear description
+
+### Contributors
+
+Thanks to all contributors who help improve this roadmap! 🙌
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## ⭐ Show Your Support
+
+If you find this roadmap helpful:
+- Give it a ⭐ star on GitHub
+- Share it with friends and fellow developers
+- Follow [@nishant-Tiwari24](https://github.com/nishant-Tiwari24) for more awesome content
+
+---
+
+<div align="center">
+
+**Made with ❤️ by [Nishant Tiwari](https://github.com/nishant-Tiwari24)**
+
+**Enhanced by [Mithil P.](https://github.com/mithilP007)**
+
+*Happy Coding! 🚀*
+
+</div>
 
 This roadmap delivers deep foundational + strong DSA, with fully working resource links, structured problem sheets, and direct paths to real-world developer skills as of 2025.[4][2][3]
