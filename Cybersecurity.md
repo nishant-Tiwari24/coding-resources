@@ -29,3 +29,5 @@
 
 ### Cybersecurity Full Time Job Roles: [Click Here](https://github.com/etkhdaniel/Cyber-Internships/blob/main/Full-Time.md)
 ### HR Email Ids: [Click Here](https://drive.google.com/file/d/1bu5GMQg-t0s7znNGmfJG-kaekXN_kFr8/view?usp=drive_link)
+
+Best Resource 
